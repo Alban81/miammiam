@@ -1,0 +1,2 @@
+MiamMiam 1.0.1
+Correction : les compteurs de quantité conservent la position de défilement au lieu de remonter en haut de page.
